@@ -6,7 +6,6 @@ public class Myclass {
 	public void m1(int a,int b)
 	{   
 		System.out.println("Called m1 method......");
-
 		c=a+b;
 		System.out.println("Addition = "+c);	
 	}

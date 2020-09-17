@@ -15,6 +15,8 @@ public class Myclass {
 		System.out.println("....Hiiiiiiii....");
 		Myclass m=new Myclass();
 		m.m1(25,25);
+		System.out.println("main end...");
+		
 	}
 
 }

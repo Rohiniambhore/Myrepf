@@ -16,6 +16,7 @@ public class Myclass {
 		Myclass m=new Myclass();
 		m.m1(25,25);
 		System.out.println("main end...");
+		System.out.println("Addition = "+c);
 		
 	}
 

@@ -10,6 +10,12 @@ public class Myclass {
 		System.out.println("Addition = "+c);	
 	}
 	
+	public void sub()
+	{  
+		c=a-b;
+		System.out.println("sub = "+c);	
+	}
+	
 	public static void main(String args[])
 	{
 		System.out.println("....Hiiiiiiii....");

@@ -9,6 +9,11 @@ public class Myclass {
 		c=a+b;
 		System.out.println("Addition = "+c);	
 	}
+	 public void sub()
+	 {
+		 c=a-b;
+		 System.out.println("Subtraction = "+c);
+	 }	 
 	
 	public void sub()
 	{  

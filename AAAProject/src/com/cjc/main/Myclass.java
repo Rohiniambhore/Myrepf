@@ -7,7 +7,8 @@ public class Myclass {
 	{   
 		System.out.println("Called m1 method......");
 		c=a+b;
-		System.out.println("Addition = "+c);	
+		System.out.println("Addition = "+c);
+		System.out.println("Called m1 method......and out...");
 	}
 		
 	public void sub()

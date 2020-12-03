@@ -15,7 +15,7 @@ public class Myclass {
 	{  
 		c=a-b;
 		System.out.println("sub = "+c);	
-		System.out.println("Called sub method......and out...")
+		System.out.println("Called sub method......and out...");
 	}
 	
 	public static void main(String args[])

@@ -24,7 +24,8 @@ public class Myclass {
 		Myclass m=new Myclass();
 		m.m1(25,25);
 		m.sub();
-		System.out.println("main end...");
+		System.out.println(" entered to main end...");
+		
 
 		
 	}
